@@ -3,4 +3,4 @@
 
 ## Instrucciones de la Branch
 
-Esta rama, TIFC1-PF-Programming-Foundations solo contiene ejercicios que se necesitan realizar en sesiones syncronas y asyncronas durante el Bootcamp, son ejercicios sin resolver para que las y los participantes puedan descargarlos, incluyen Un documento PDF con las instrucciones. 
+Esta rama, TIFC1-PF-Programming-Foundations solo contiene ejercicios que se necesitan realizar en sesiones syncronas y asyncronas durante el Bootcamp del primer modulo de Fundamentos de programación , son ejercicios sin resolver para que las y los participantes puedan descargarlos, incluyen Un documento PDF con las instrucciones. 

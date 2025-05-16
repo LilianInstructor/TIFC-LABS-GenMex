@@ -1,0 +1,51 @@
+PF-3-1 Calculadora-Individual
+Descripción: Un proyecto en blanco para crear un programa de calculadora.
+
+Instrucciones:
+Escriba un programa que admita dos números de entrada, los sume e imprima el resultado.
+
+**Recuerde** Este proyecto se calificará de forma automática, ¡y los computadores son muy literales!
+
+## Tiempo extra
+
+Si finaliza esta tarea, intente añadir las siguientes funciones:
+* Tome dos números y reste el segundo del primero.
+* Tome dos números y multiplique los dos.
+* Tome dos números y multiplique el primer número por el segundo número.
+* Tome dos números y realice una operación de módulo.
+* Permita a los usuarios elegir qué operación desean realizar con dos números.
+* Tome 3 números y súmelos.
+* Permita a los usuarios mezclar operaciones con 3 números o más
+Por ejemplo 2 + 4 - 3, 4 *5 + 1 / 3
+
+**Nota:** Estas características deben ser presentadas al usuario *después* de la tarea inicial, ¡o de lo contrario la calificación automática marcará esto como reprobado! La calificación de las características adicionales se hará de forma manual.
+
+PF-3-3 MejorCalculadora-Individual
+Descripción: Este es un proyecto en blanco que los alumnos pueden utilizar para escribir una mejor calculadora
+
+Instrucciones:
+Ahora tiene la oportunidad de construir una calculadora mejor. Su calculadora puede funcionar como usted quiera, pero debe ser utilizable como calculadora.
+
+En primer lugar, vamos a separar nuestra lógica *interactiva* en la función `main()`, de la siguiente manera:
+
+```
+def main():
+  print("¡Hola alumnos!")
+if __nombre__=="__main__":
+  main()
+```
+
+Este es un código de boilerplate en Python, que solo se ejecutará cuando el programa sea invocado por una persona. Todo su código debe estar ahora dentro de una función - ya sea esta función `main()` (donde puede poner cosas como sentencias de entrada) u otra función.
+
+La calificación automática se puntuará sobre 8 y pondrá a prueba la funcionalidad de las siguientes funciones:
+
+* `addmultiplenumbers([num, num, ..])` - esta función debe existir en su programa, debe tomar una lista de números como entrada, y debe dar como salida la suma de esos números.
+* `multiplymultiplenumbers([num, num, ..])` - esta función debe existir en su programa, debe tomar una lista de números como entrada, y debe mostrar el resultado de multiplicar cada número a su vez con el siguiente número.
+* `isiteven(num)` - esta función debe existir en su programa, debe tomar un solo número como entrada, y debe dar como salida un valor booleano - `Verdadero` si el número es un número entero par, `Falso` en caso contrario.
+* `isitaninteger(num)` - esta función debe existir en su programa, debe tomar un único número como entrada, y debe dar como salida un valor booleano - `Verdadero` si el número es un entero, `Falso` en caso contrario.
+
+**Recuerde** Este proyecto se calificará de forma automática, ¡y los computadores son muy literales!
+
+**Nota:** ¡Utilice las pruebas! No tiene nada de malo hacer las pruebas hasta que las superen. ¡No es hacer trampas!
+
+**Nota:** Si no consigue que una función funcione, intente trabajar en otra diferente. Puede que descubra que es capaz de resolver las funciones posteriores con mayor rapidez que las anteriores.

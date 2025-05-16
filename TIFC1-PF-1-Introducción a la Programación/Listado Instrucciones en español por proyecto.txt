@@ -1,0 +1,32 @@
+PF-1-2 Codifica un juguete
+PF-1-2 El juguete más sencillo 
+Descripción: Este programa le pregunta su nombre, asigna su nombre a una variable, a continuación, utiliza una sentencia print para darle un amistoso hola :)
+Instrucciones:
+Escriba un programa que tome las siguientes entradas:
+- nombre
+- nombre del puesto
+- primer adjetivo
+- segundo adjetivo
+- primer alimento
+- segundo alimento
+- un sentimiento
+
+Y luego imprime el siguiente Mad Lib, sustituyendo las palabras dentro de las llaves de flecha (`<>`) por las entradas del usuario:
+```
+<nombre> ha empezado hoy su primer curso de Generation. Se están formando como <nombre del puesto>. Encontraron que su compañero era muy <primer adjetivo> pero su profesor era, por lo menos, <segundo adjetivo>. Para el almuerzo comieron <primera comida> y <segunda comida> mientras repasaban sus notas. Sienten <un sentimiento> pero están decididos a completar el curso.
+```
+**Recuerde: ¡el caso es importante!** Este proyecto se calificará automáticamente, ¡y los computadores son muy literales!
+PF-1-3 Lista de compras
+Descripción: Un lenguaje dinámico que hace hincapié en la legibilidad.
+
+Instrucciones:
+Escriba un programa que tome las siguientes entradas:
+- punto 1 de la lista
+- punto 2 de la lista
+- punto 3 de la lista
+
+Y luego añade los tres elementos a una lista llamada "lista_de_compras", *que no contiene ningún otro elemento*. Las entradas no importan, pero sólo debe pedir tres elementos, uno tras otro.
+
+Por último, debe imprimir la estructura de datos lista_de_compras.
+
+**Recuerde: ¡el caso es importante!** Este proyecto se calificará automáticamente, ¡y los computadores son muy literales!

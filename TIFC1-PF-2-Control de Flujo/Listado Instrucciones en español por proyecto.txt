@@ -1,0 +1,22 @@
+PF-2-3 FizzBuzz-Individual
+Descripción: Este es un proyecto en blanco para escribir un juguete "Fizzbuzz".
+
+Instrucciones:
+Escriba un programa que imprima los 1000 primeros números de FizzBuzz. El resultado debería ser el siguiente:
+
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+```
+
+**Sin embargo, debe continuar hasta 1000.**
+
+
+**Recuerde: ¡el caso es importante!** Este proyecto se calificará automáticamente, ¡y los computadores son muy literales!
