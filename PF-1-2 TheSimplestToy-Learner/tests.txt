@@ -1,0 +1,138 @@
+Test 1: feeling: overwhelmed
+input:
+a
+b
+c
+d
+e
+f
+overwhelmed
+
+output:
+They feel overwhelmed but are determined to complete the course.
+
+---
+Test 2: food: pizza, chips
+input:
+a
+b
+c
+d
+pizza
+chips
+g
+
+output:
+For lunch they have pizza and chips while reviewing their notes.
+
+---
+Test 3: food: salad, chicken
+input:
+a
+b
+c
+d
+salad
+chicken
+g
+
+output:
+For lunch they have salad and chicken while reviewing their notes.
+
+---
+Test 4: tomato tomato tomato
+input:
+tomato
+tomato
+tomato
+tomato
+tomato
+tomato
+tomato
+
+output:
+tomato started their first Generation course today. They are training as a tomato. They found their cohort to be very tomato but their teacher was, at least, tomato. For lunch they have tomato and tomato while reviewing their notes. They feel tomato but are determined to complete the course.
+
+---
+Test 5: job: Programmer
+input:
+a
+Programmer
+c
+d
+e
+f
+g
+
+output:
+They are training as a Programmer.
+
+---
+Test 6: job: Car Mechanic
+input:
+a
+Car Mechanic
+c
+d
+e
+f
+g
+
+output:
+They are training as a Car Mechanic.
+
+---
+Test 7: name: Peter
+input:
+Peter
+b
+c
+d
+e
+f
+g
+
+output:
+Peter started their first Generation course today.
+
+---
+Test 8: name: John
+input:
+John
+b
+c
+d
+e
+f
+g
+
+output:
+John started their first Generation course today.
+
+---
+Test 9: adjective: quiet, loud
+input:
+a
+b
+quiet
+loud
+e
+f
+g
+
+output:
+They found their cohort to be very quiet but their teacher was, at least, loud.
+
+---
+Test 10: adjective: drole, funny
+input:
+a
+b
+drole
+funny
+e
+f
+g
+
+output:
+They found their cohort to be very drole but their teacher was, at least, funny.
